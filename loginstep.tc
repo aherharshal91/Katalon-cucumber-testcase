@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>loginstep</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be3070d1-9696-43ff-b7c0-3f5cc15ed4ac</testCaseGuid>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>fd9c7d01-6ca9-4c1d-a2a6-9eff21fa1ab5</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'hUKwJTbofgPU9eVlw/CnDQ=='</defaultValue>
+      <description></description>
+      <id>eba2ad35-d78e-4f01-af0c-42ea38d88111</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
